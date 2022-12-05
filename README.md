@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 📫 How to reach me **https://twitter.com/Ayan_M_Dev**
 
 - ⚡ Fun fact **I am an AMBIVERT**
