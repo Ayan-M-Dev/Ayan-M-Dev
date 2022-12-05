@@ -12,6 +12,9 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayan-m-dev&theme=dark" alt="ayan-m-dev" /></p>
 <p>____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayan-m-dev&show_icons=true&theme=dark&locale=en" alt="ayan-m-dev" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan-m-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayan-m-dev" /></p>
+
 
 
