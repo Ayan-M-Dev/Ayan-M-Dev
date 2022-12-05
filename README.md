@@ -7,3 +7,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayan-m-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayan-m-dev" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayan-m-dev&show_icons=true&locale=en" alt="ayan-m-dev" /></p>
+
