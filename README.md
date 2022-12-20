@@ -1,3 +1,14 @@
+<div id="hey" align="center">
+  <h1>
+    Hi!
+    I'm Tijan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+  </h1>
+</div>  
+</div>
+
+
+
 # 💫 About Me:
 I am a passionate **Blockchain Developer** from India, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
 - 🔭 I’m currently working on more Blockchain and Web3 projects.
