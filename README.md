@@ -3,7 +3,7 @@ I am a passionate **Blockchain Developer** from India, enthusiastic about blockc
 - 🔭 I’m currently working on more Blockchain and Web3 projects.
 - 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols (their smart contracts).
 - 💬 Ask me about anything blockchain related :smile:.
-- 📫 How to reach me: email me [contactme@ayan.dev](mailto:ayan.m.dev@gmail.com)
+- 📫 How to reach me: email me at [contactme@ayan.dev](mailto:ayan.m.dev@gmail.com)
 
 
 ## 🌐 Socials:
