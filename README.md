@@ -45,7 +45,7 @@ I am a passionate **Blockchain Developer** from India, enthusiastic about blockc
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayan-M-Dev&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayan&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
