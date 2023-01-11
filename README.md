@@ -50,6 +50,6 @@ I am a passionate **Full Stack Developer** from India, enthusiastic about blockc
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayan-M-Dev&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Quote of the day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
