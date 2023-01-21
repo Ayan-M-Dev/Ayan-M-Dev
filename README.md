@@ -55,6 +55,6 @@ I am a passionate **Full Stack Developer** from India, enthusiastic about blockc
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 😇 Latest Tweets
-<p><a href="https://twitter.com/Ayan_M_Dev"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=cnu1812&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<p><a href="https://twitter.com/Ayan_M_Dev"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=Ayan_M_Dev&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
