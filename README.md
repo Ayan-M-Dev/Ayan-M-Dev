@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
 <div id="hey" align="center">
   <h1>
     Hi!
@@ -53,3 +54,4 @@ I am a passionate **Full Stack Developer** from India, enthusiastic about blockc
 ### ✍️ Quote of the day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
