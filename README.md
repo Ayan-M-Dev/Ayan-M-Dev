@@ -13,7 +13,7 @@
 # 💫 About Me:
 I am a passionate **Full Stack Developer** from India, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
 - 🔭 I’m currently working on more Blockchain and Web3 projects.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols (their smart contracts).
+- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi Protocols (their smart contracts).
 - 💬 Ask me about anything Web related :smile:.
 - 📫 How to reach me: email me at [contactme@ayan.dev](mailto:ayan.m.dev@gmail.com)
 
