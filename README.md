@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
+<img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/banner.png" width="100%">
 <div id="hey" align="center">
   <h1>
     Hey there
@@ -10,49 +10,94 @@
 </div>
 
 
-
-# 💫 About Me:
-I am a passionate **Full Stack Developer** from India, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
-- 🔭 I’m currently working on more Blockchain and Web3 projects.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi Protocols (their smart contracts).
-- 💬 Ask me about anything Web related :smile:.
-- 📫 How to reach me: email me at [contactme@ayan.dev](mailto:ayan.m.dev@gmail.com)
+<div id="hey" align="center">
+<p>
+  I am a passionate <strong>Full Stack Developer</strong> from India, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
+</div>  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-masood-6038ab21b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Ayan_M_Dev) 
-
-
-# :hammer_and_wrench: Languages and Tools:
+##
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" title="Truffle" alt="Truffle" width=40 height=40 />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="YARN" alt="YARN" width="40" height="40"/>&nbsp;
-     
-   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="40" height="40" />
-   <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" title="Ganache" alt="Ganache" width="40" height="40" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Chainlink_Logo.png" title="Chainlink" alt="Chainlink" width="40" height="40" />
-   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/xi2ibotrclcxf9njqrfm" title="Moralis" alt="Moralis" width="40" height="40" />
-   <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width=40 height=40 alt="Web3js" title="Web3js" />
-      <img src="https://gitcoin.co/blog/wp-content/uploads/2022/07/ethersjs.png" width=40 height=40 alt="Ethers" title="Ethers" />
+  <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="300">
+  <p>
+  🌱 I’m currently learning React, NextJS
+
+  👯 I’m looking to collaborate on different projects
+
+  👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+
+  📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+
+  👀 Ask me about React, NextJS, NodeJS, and APIs
+
+  📫You can reach me at rahulkarda2002@gmail.com
+
+  ⚡ Fun fact  - I like Philosophy and Astronomy
+    
+  😅 Fun fact  - I like Philosophy and Astronomy
+   <br>
+  </p>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayan-M-Dev&theme=dark&hide_border=false)<br/>
+##
+<div id="hey" align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
+  <h1>
+Languages and Tools 
+  </h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  </p>
+</div>  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayan-M-Dev&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Quote of the day!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+##
+<div id="hey" align="center">
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+  <h1>
+Connect With Me 
+  </h1>
 
-<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width="100%">
+  <p align="center">
+    <a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+    <a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  </p>
+</div>  
+
+
+# 
+<img src="https://github-readme-stats.vercel.app/api?username=Ayan-M-Dev&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-M-Dev&theme=blueberry_duo"/>
+|---|---|
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayan-M-Dev&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+  </img>
+</p>
+
+<div align="center">
+    <h1>
+      Quote of the Day
+    </h1>
+    <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+      <div align="center">Visitor count</div>
+      <div align="center">
+        <img src="https://profile-counter.glitch.me/Ayan-M-Dev/count.svg"/>
+      </div> 
+    </p>
+</div>
+
+
+##
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
