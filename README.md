@@ -12,13 +12,13 @@
 
 <div id="hey" align="center">
 <p>
-  I am a passionate <strong>Full Stack Developer</strong> from India, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
+A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockchain technology. Actively learning and contributing to Open Source. Sharing insights on web development and blockchain at tech conferences. Constantly honing problem-solving skills and participating in coding competitions. Dedicated to making a lasting impact in the world of technology.
 </div>  
 
 
 ##
 <div>
-  <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="300">
+  <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="250">
   <p>
   🌱 I’m currently learning React, NextJS
 
@@ -34,7 +34,6 @@
 
   ⚡ Fun fact  - I like Philosophy and Astronomy
     
-  😅 Fun fact  - I like Philosophy and Astronomy
    <br>
   </p>
 </div>
