@@ -22,7 +22,7 @@ A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockch
   <p>
   🌱 I’m currently learning Solidity
 
-  👯 Contributing in Open Source Porjects
+  👯 Contributing in Open Source Projects
 
   👨‍💻 All of my projects are available at [my website]()
 
