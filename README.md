@@ -32,7 +32,7 @@ A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockch
 
   📫 You can reach me at Socials
 
-  ⚡ Fun fact  - I do gaming & play football
+  ⚡ Fun fact  - I like gaming & play football
     
    <br>
   </p>
