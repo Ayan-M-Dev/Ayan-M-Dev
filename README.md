@@ -20,19 +20,19 @@ A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockch
 <div>
   <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="250">
   <p>
-  🌱 I’m currently learning React, NextJS
+  🌱 I’m currently learning Solidity
 
-  👯 I’m looking to collaborate on different projects
+  👯 Contributing in Open Source Porjects
 
-  👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+  👨‍💻 All of my projects are available at [my website]()
 
-  📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+  📝 I actively post on Twitter
 
   👀 Ask me about React, NextJS, NodeJS, and APIs
 
-  📫You can reach me at rahulkarda2002@gmail.com
+  📫 You can reach me at Socials
 
-  ⚡ Fun fact  - I like Philosophy and Astronomy
+  ⚡ Fun fact  - I do gaming & play football
     
    <br>
   </p>
