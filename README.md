@@ -24,7 +24,7 @@ A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockch
 
   👯 Contributing in Open Source Projects
 
-  👨‍💻 All of my projects are available at [my website]()
+  👨‍💻 All of my projects are available at [my website](http://ayan-m-dev.vercel.app/)
 
   📝 I actively post on Twitter
 
