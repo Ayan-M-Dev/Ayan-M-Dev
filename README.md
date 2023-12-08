@@ -20,7 +20,7 @@ A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockch
 <div>
   <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="250">
   <p>
-  🌱 I’m currently learning Solidity
+  🌱 I’m currently learning Typescript
 
   👯 Contributing in Open Source Projects
 
