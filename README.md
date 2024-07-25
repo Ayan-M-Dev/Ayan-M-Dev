@@ -20,15 +20,15 @@ A Passionate Full Stack Developer and Web 3.0 Enthusiast with a focus on blockch
 <div>
   <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="250">
   <p>
-  🌱 I’m currently learning Typescript
+  🌱 I’m currently learning more about Blockchain
 
-  👯 Contributing in Open Source Projects
+  👯 Contributing to Open Source Projects
 
   👨‍💻 All of my projects are available at [my website](http://ayan-m-dev.vercel.app/)
 
-  📝 I actively post on Twitter
+  📝 I actively post on [Twitter](https://x.com/Ayan_M_Dev)
 
-  👀 Ask me about React, NextJS, NodeJS, and APIs
+  👀 Ask me anything about Web & App Development 
 
   📫 You can reach me at Socials
 
