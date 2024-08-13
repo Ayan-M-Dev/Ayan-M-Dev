@@ -20,7 +20,7 @@ Innovative Full Stack Developer with expertise in Web and App development, passi
 <div>
   <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/cover-thompson.png" align="right" height="250">
   <p>
-  🌱 I’m currently learning more about AI
+  🌱 I’m currently learning more about RAG
 
   👯 Contributing to Open Source Projects
 
