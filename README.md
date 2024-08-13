@@ -30,7 +30,7 @@ Innovative Full Stack Developer with expertise in Web and App development, passi
 
   👀 Ask me about Web & App Development 
 
-  📫 Check out my [Blogs](https://hashnode.com/@Ayanmdev)
+  📫 Check out my [Blogs](https://hashnode.com/@ayan-m-dev)
 
   ⚡ Like Gaming & Football
     
