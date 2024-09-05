@@ -20,7 +20,7 @@ Innovative Full Stack Developer with expertise in Web and App development, passi
 
   👯 Contributing to Open Source Projects
 
-  👨‍💻 All of my projects are available at [my website](http://ayan-m-dev.vercel.app/)
+  👨‍💻 All of my projects are available at [my website](http://ayanmasood.tech)
 
   📝 I actively post on [Twitter](https://x.com/Ayan_M_Dev)
 
