@@ -8,7 +8,7 @@
 
 <div id="hey" align="center">
 <p>
-Innovative Full Stack Developer with expertise in Web and App development, passionate about AI and Blockchain technologies. Active open-source contributor and community builder. Experienced in crafting user-centric solutions and streamlining processes through effective project management. Frequent speaker at tech conferences, sharing insights on cutting-edge development practices. Committed to leveraging technology for meaningful impact, I thrive in collaborative environments and constantly seek new challenges. Always eager to connect with fellow developers, explore innovative projects, and push the boundaries of what's possible in the digital realm.
+Full Stack Developer with expertise in Web and App development. Active open-source contributor and community builder. Experienced in crafting user-centric solutions and streamlining processes through effective project management. Frequent speaker at tech conferences, sharing insights on cutting-edge development practices. Committed to leveraging technology for meaningful impact, I thrive in collaborative environments and constantly seek new challenges. Always eager to connect with fellow developers, explore innovative projects, and push the boundaries of what's possible in the digital realm.
 </div>  
 
 
