@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/Ayan-M-Dev/Ayan-M-Dev/blob/main/banner.png" width="100%">
 <div id="hey" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+Ayan+this+side+%F0%9F%91%8B;Full+Stack+Web+%26+App+Developer;DevRel++%26+Community+Builder;Project+Manager+%26+Public+Speaker" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+Ayan+this+side+%F0%9F%91%8B;Full+Stack+Web+%26+App+Developer;DevRel++%26+Community+Builder" alt="Typing SVG" /></a>
 </div>  
 </div>
 
@@ -20,7 +20,7 @@ Full Stack Developer with expertise in Web and App development. Active open-sour
 
   👯 Contributing to Open Source Projects
 
-  👨‍💻 All of my projects are available at [my website](http://ayanmasood.tech)
+  👨‍💻 All of my projects are available at [my website](ayanm.is-a.dev)
 
   📝 I actively post on [Twitter](https://x.com/Ayan_M_Dev)
 
